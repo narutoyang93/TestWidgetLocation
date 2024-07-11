@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:paddingHorizontal="20dp"
-        android:text="请手动开启定位权限以及gps，然后点击开始按钮"
+        android:text="请手动开启通知权限、定位权限以及gps，然后点击开始按钮"
         android:textSize="20sp" />
 
     <Button
